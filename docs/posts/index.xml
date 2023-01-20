@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 易鹏的个人博客</title>
-    <link>https://localhost/posts/</link>
+    <link>https://ashen7.github.io/posts/</link>
     <description>Recent content in Posts on 易鹏的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Oct 2017 14:00:45 +0000</lastBuildDate><atom:link href="https://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Oct 2017 14:00:45 +0000</lastBuildDate><atom:link href="https://ashen7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello_world</title>
-      <link>https://localhost/posts/hello_world/</link>
+      <link>https://ashen7.github.io/posts/hello_world/</link>
       <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
       
-      <guid>https://localhost/posts/hello_world/</guid>
+      <guid>https://ashen7.github.io/posts/hello_world/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
